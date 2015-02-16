@@ -1,6 +1,6 @@
 //This is a new text file
 public class a{
 
- Boolean b;
+ Boolean bcd;
 String a;
 }
