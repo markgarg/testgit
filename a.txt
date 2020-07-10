@@ -1,8 +1,0 @@
-//This is a new text file
-public class a{
-
- Boolean bcd;
- String a;
- Boolean newPullRequest;
- // some change in some feature 1
-}
