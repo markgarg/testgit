@@ -4,4 +4,8 @@ public without sharing class Sample {
 		String var = null;
 		return false;
 	}
+
+	public String anotherMethod() {
+		return 'null';
+	}
 }
