@@ -6,6 +6,6 @@ public without sharing class Sample {
 	}
 
 	public String anotherMethod() {
-		return 'null';
+		return null;
 	}
 }
