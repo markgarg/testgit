@@ -7,6 +7,7 @@ public without sharing class Sample {
 	}
 
 	public String anotherMethod() {
+		// dev 8 change
 		return null;
 	}
 }
