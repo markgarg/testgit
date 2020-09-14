@@ -5,7 +5,7 @@ public without sharing class Sample {
 	}
 
 	public String anotherMethod() {
-		return 'test';
+		return 'test1';
 	}
 
 	public String anotherMethod2() {
