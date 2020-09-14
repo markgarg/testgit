@@ -3,4 +3,8 @@ public without sharing class Sample {
 		// Some change introduced
 		return true;
 	}
+
+	public String anotherMethod() {
+		return 'test';
+	}
 }
