@@ -1,6 +1,5 @@
 public without sharing class Sample {
 	public Boolean someMethod() {
-		// some change
 		return true;
 	}
 
